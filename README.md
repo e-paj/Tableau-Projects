@@ -7,3 +7,6 @@
 
 ## 💡 What I learned?
 - Learnt how to connect to different data sources such as Excel, Google Sheets and Cloud Servers.
+
+## 📑 Case Studies:
+- Foreign Direct Investment
