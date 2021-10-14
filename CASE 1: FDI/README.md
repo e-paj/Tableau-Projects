@@ -12,3 +12,7 @@ _______
 8. What is the proportion of investment between sectors from the FDI perspective?
 9. Are there any specific clusters present in the data?
 10. Can we forecast the trend for the following year?
+
+🖼
+[Screenshot-187.png](https://postimg.cc/676pPzxx)
+[Screenshot-186.png](https://postimg.cc/N2XsXzmm)
