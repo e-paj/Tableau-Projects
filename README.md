@@ -10,6 +10,7 @@
 
 ## 📑 Case Studies:
 - Foreign Direct Investment
+- Boston Real Estate
 
 
 ### View all my Tableau-Projects Dashboards on my Tableau Public Profile link - 
