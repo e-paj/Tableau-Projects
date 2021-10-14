@@ -14,5 +14,5 @@ _______
 10. Can we forecast the trend for the following year?
 
 🖼
-[Screenshot-187.png](https://postimg.cc/676pPzxx)
-[Screenshot-186.png](https://postimg.cc/N2XsXzmm)
+[![Screenshot-187.png](https://i.postimg.cc/W4gqhf9z/Screenshot-187.png)](https://postimg.cc/676pPzxx)
+[![Screenshot-186.png](https://i.postimg.cc/hvyfkFGy/Screenshot-186.png)](https://postimg.cc/N2XsXzmm)
