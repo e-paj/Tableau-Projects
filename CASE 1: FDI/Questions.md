@@ -1,0 +1,1 @@
+# In this case study, we will wxplore the FDI dataset and analyze it from the perspective of a business. We shall look at various sectors to determine which sector will prove most beneficial to collaborate with, for the company. 
