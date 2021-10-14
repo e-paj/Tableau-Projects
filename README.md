@@ -9,8 +9,8 @@
 - Learnt how to connect to different data sources such as Excel, Google Sheets and Cloud Servers.
 
 ## 📑 Case Studies:
-- Foreign Direct Investment
-- Boston Real Estate
+- Foreign Direct Investment (FDI)
+- Boston Real Estate (BRE)
 
 
 ### View all my Tableau-Projects Dashboards on my Tableau Public Profile link - 
