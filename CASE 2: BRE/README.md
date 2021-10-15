@@ -11,4 +11,5 @@
 9. Is there a fixed equation showing the relationship between factors and price?
 10. Is there a way to test if crime rates are truly pertinent to the real estate price?
 
-
+## Dataset: 
+- Kaggle: 
