@@ -13,3 +13,7 @@
 
 ## Dataset: 
 - Kaggle: https://www.kaggle.com/vikrishnan/boston-house-prices
+
+🖼 # Screenshots:
+[![Screenshot-188.png](https://i.postimg.cc/7YWyqjL8/Screenshot-188.png)](https://postimg.cc/tYWc5SP2)
+[![Screenshot-189.png](https://i.postimg.cc/0NgRwmmV/Screenshot-189.png)](https://postimg.cc/bZRBXZmn)
