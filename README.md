@@ -26,6 +26,6 @@ https://public.tableau.com/app/profile/esnobi.pajanconi
 
 ## References:
 ### Youtube:📺
--[Edureka Tableau Tutorial: Simple Tableau Projects for Beginners](https://www.youtube.com/watch?v=9bjZ2mA7asg)
--[Edureka Tableau Tutorial: Tableau Projects for Practice](https://www.youtube.com/watch?v=If4YqaZtZ3c)
-- A whole of googling
+- [Edureka Tableau Tutorial: Simple Tableau Projects for Beginners](https://www.youtube.com/watch?v=9bjZ2mA7asg)
+- [Edureka Tableau Tutorial: Tableau Projects for Practice](https://www.youtube.com/watch?v=If4YqaZtZ3c)
+- A whole lot of googling
