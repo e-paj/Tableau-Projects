@@ -7,7 +7,12 @@
 
 ## 💡 What I learned?
 - Learnt how to connect to different data sources such as Excel, Google Sheets and Cloud Servers.
-- To create 3 interactive dashboards and publish it online to share
+- To create 3 interactive dashboards and publish it online to share.
+- To create a variety of charts including line charts, bar charts, and maps.
+- To use Calculated Fields to create a new data.
+- To create groups.
+- Understood how to make use of the analytics pane including using trend lines, cluster, and forecast.
+- Understood how to use dashboard actions and create interactive dashboards.
 
 ## 📑 Case Studies:
 - Foreign Direct Investment (FDI)
