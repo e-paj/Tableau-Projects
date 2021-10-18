@@ -23,3 +23,7 @@
 ### View all my Tableau-Projects Dashboards on my Tableau Public Profile link - 
 
 https://public.tableau.com/app/profile/esnobi.pajanconi
+
+## References:
+### Youtube:📺
+[Edureka Tableau Tutorial: Simple Tableau Projects for Beginners](https://www.youtube.com/watch?v=9bjZ2mA7asg)
