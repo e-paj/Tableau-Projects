@@ -12,7 +12,7 @@
 ## 📑 Case Studies:
 - Foreign Direct Investment (FDI)
 - Boston Real Estate (BRE)
-- Employment Rate in Canada
+- Canada Immigration
 
 
 ### View all my Tableau-Projects Dashboards on my Tableau Public Profile link - 
